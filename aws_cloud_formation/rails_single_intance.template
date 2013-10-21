@@ -125,7 +125,8 @@
               "rubygems" : {
                 "rack"         : ["1.3.6"],
                 "execjs"       : [],
-                "therubyracer" : []
+                "therubyracer" : [],
+                "bundler"      : []
               }
             },
 
